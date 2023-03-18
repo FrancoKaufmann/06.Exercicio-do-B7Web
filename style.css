@@ -1,0 +1,66 @@
+body {
+    margin: 0px;
+    
+}
+
+.cabecalho {
+    background-color: #000;
+    width: 100%;
+    height: 100px;
+    color: #FFF;
+
+}
+
+.conteudo {
+    margin: 0px;
+    padding: 25px 40% 25px 40%;
+    font-family:'Climate Crisis';
+    letter-spacing: 3px;
+}
+form {
+    margin-left: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 20px;
+}
+
+#nome, textarea, select {
+    padding: 10px;
+    width: 500px;
+    font-size: 15px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+
+textarea {
+    right: 150px;
+    resize: none;
+}
+
+select {
+    width: 520px;
+}
+
+#checkbox {
+    margin-top: 50px;
+}
+
+button {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #FFF;
+}
+
+button:hover {
+    background-color: #a0a0a0; 
+    transition: 2s;
+}
+
+
+
